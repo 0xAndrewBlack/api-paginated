@@ -1,0 +1,15 @@
+{
+  "name": "page-api",
+  "version": "1.0.0",
+  "description": "Paginated API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "devStart": "nodemon ."
+  },
+  "author": "Lemon Andrew",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
